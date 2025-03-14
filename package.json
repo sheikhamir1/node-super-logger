@@ -1,6 +1,6 @@
 {
-  "name": "@sheikhamir1/node-super-logger",
-  "version": "1.0.0",
+  "name": "@amirsohail1/node-super-logger",
+  "version": "1.0.1",
   "description": "this is a simple userful nodejs logger that every developer needs its super easy to use , and get super cool colorfull logs ",
   "main": "index.js",
   "type": "module",
