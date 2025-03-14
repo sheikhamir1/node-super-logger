@@ -1,0 +1,33 @@
+{
+  "name": "node-super-logger",
+  "version": "1.0.0",
+  "description": "this is a simple userful nodejs logger that every developer needs its super easy to use , and get super cool colorfull logs ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheikhamir1/node-super-logger.git"
+  },
+  "keywords": [
+    "node",
+    "logger",
+    "node",
+    "logger",
+    "simple",
+    "logger",
+    "node-super-logger"
+  ],
+  "author": "amir sohail shiek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheikhamir1/node-super-logger/issues"
+  },
+  "homepage": "https://github.com/sheikhamir1/node-super-logger#readme",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
